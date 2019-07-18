@@ -3,8 +3,8 @@
 ## Pre-setup:
 1. Confirm node is installed, or install it (https://node.org/)
 2. clone project and open root folder in VS Code
-3. Open terminal window in VS Code and run npm install to get all packages that this project requires
-4. run npm test to run all tests
+3. Open terminal window in VS Code and run `npm install` to get all packages that this project requires
+4. run `npm test` in terminal to run all tests
 
 ## A kata to develop a program that validates a resistor's tolerances.
 
